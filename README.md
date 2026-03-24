@@ -1,1 +1,1 @@
-# sistema-votacao
+# cne-system
